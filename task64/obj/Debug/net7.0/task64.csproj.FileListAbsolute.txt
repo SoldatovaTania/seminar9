@@ -1,0 +1,15 @@
+/Users/tanya/Desktop/Учеба/С#/sem9/task64/bin/Debug/net7.0/task64
+/Users/tanya/Desktop/Учеба/С#/sem9/task64/bin/Debug/net7.0/task64.deps.json
+/Users/tanya/Desktop/Учеба/С#/sem9/task64/bin/Debug/net7.0/task64.runtimeconfig.json
+/Users/tanya/Desktop/Учеба/С#/sem9/task64/bin/Debug/net7.0/task64.dll
+/Users/tanya/Desktop/Учеба/С#/sem9/task64/bin/Debug/net7.0/task64.pdb
+/Users/tanya/Desktop/Учеба/С#/sem9/task64/obj/Debug/net7.0/task64.csproj.AssemblyReference.cache
+/Users/tanya/Desktop/Учеба/С#/sem9/task64/obj/Debug/net7.0/task64.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tanya/Desktop/Учеба/С#/sem9/task64/obj/Debug/net7.0/task64.AssemblyInfoInputs.cache
+/Users/tanya/Desktop/Учеба/С#/sem9/task64/obj/Debug/net7.0/task64.AssemblyInfo.cs
+/Users/tanya/Desktop/Учеба/С#/sem9/task64/obj/Debug/net7.0/task64.csproj.CoreCompileInputs.cache
+/Users/tanya/Desktop/Учеба/С#/sem9/task64/obj/Debug/net7.0/task64.dll
+/Users/tanya/Desktop/Учеба/С#/sem9/task64/obj/Debug/net7.0/refint/task64.dll
+/Users/tanya/Desktop/Учеба/С#/sem9/task64/obj/Debug/net7.0/task64.pdb
+/Users/tanya/Desktop/Учеба/С#/sem9/task64/obj/Debug/net7.0/task64.genruntimeconfig.cache
+/Users/tanya/Desktop/Учеба/С#/sem9/task64/obj/Debug/net7.0/ref/task64.dll
